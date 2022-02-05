@@ -1,8 +1,18 @@
-### Hi there 👋
+## Hey! I'm Rishu Gupta. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![GitHub Rishu-Gupta](https://img.shields.io/github/followers/Rishu-Gupta?label=follow&style=social)](https://github.com/Rishu-Gupta)
+[![Linkedin: Rishu Gupta](https://img.shields.io/badge/-Rishu%20Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishugupta5/)](https://www.linkedin.com/in/rishugupta5/)
+[![Twitter: Rishu Gupta](https://img.shields.io/twitter/follow/therishugupta?style=social)](https://twitter.com/therishugupta)
+![Visitors](https://komarev.com/ghpvc/?username=rishu-gupta&left_color=gray&right_color=blue)
+[![Medium Badge](https://img.shields.io/badge/-@Rishu%20Gupta-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@therishugupta)](https://medium.com/@therishugupta)
+
+Living and Breathing Software Development.
 <!--
-**RISHU-GUPTA/Rishu-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RISHU-GUPTA/Rishu-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+[![Rishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishu-gupta&hide=issues&count_private=true&show_icons=true&theme=react)](https://github.com/rishu-gupta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishu-gupta&layout=compact&theme=react)](https://github.com/rishu-gupta/github-readme-stats)
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
